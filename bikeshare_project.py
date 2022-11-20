@@ -74,7 +74,7 @@ def get_filters():
             print("\nAttempted input. However keyboard interruption detected")
 
 
-    print('-'*40)
+    print('\nLoading result', '-'*30)
     return city, month, day
 
 
