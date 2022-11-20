@@ -3,6 +3,8 @@
 
 # In[2]:
 
+!pip install pandas
+!pip install openpyxl
 
 import time
 import pandas as pd
